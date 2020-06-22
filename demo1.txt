@@ -3,6 +3,7 @@ public class demo1{
 public static void main(String[] args){
 
 System.out.println("This is first example");
+System.out.println("This is modified example");
 
 }
 }
